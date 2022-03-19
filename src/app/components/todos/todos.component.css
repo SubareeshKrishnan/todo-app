@@ -1,0 +1,9 @@
+.completedTodo {
+  color: darkgray;
+  text-decoration: line-through;
+}
+
+.trashIcon:hover {
+  color: crimson;
+  transition: 0.2s;
+}
